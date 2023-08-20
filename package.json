@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexlet-boilerplates/nodejs-package.git"
+    "url": "git+https://github.com/AslanAV/js-CLI-util.git"
   },
-  "author": "Kirill Mokevnin",
+  "author": "Aslan Autlev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hexlet-boilerplates/nodejs-package/issues"
+    "url": "https://github.com/AslanAV/js-CLI-util.git/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/hexlet-boilerplates/nodejs-package#readme",
+  "homepage": "https://github.com/AslanAV/js-CLI-util/blob/main/README.md",
   "dependencies": {
     "debug": "^4.3.4",
     "lodash": "^4.17.21"
